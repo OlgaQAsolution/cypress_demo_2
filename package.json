@@ -1,0 +1,24 @@
+{
+  "name": "parabank-cypress-automation",
+  "version": "1.0.0",
+  "description": "Production-ready Cypress automation framework for ParaBank demo using POM design pattern",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headless": "cypress run --headless --browser chrome",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "page-object-model",
+    "e2e",
+    "parabank"
+  ],
+  "author": "",
+  "license": "ISC"
+}
