@@ -1,0 +1,22 @@
+{
+  "validUser": {
+    "username": "john",
+    "password": "demo"
+  },
+  "invalidUser": {
+    "username": "invalidUser_xyz",
+    "password": "wrongPassword123"
+  },
+  "newUser": {
+    "firstName": "Test",
+    "lastName": "Automation",
+    "address": "123 QA Street",
+    "city": "Test City",
+    "state": "CA",
+    "zipCode": "90210",
+    "phone": "5551234567",
+    "ssn": "123456789"
+  },
+  "transferAmount": "50.00",
+  "smallTransferAmount": "10.00"
+}
